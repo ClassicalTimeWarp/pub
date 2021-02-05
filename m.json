@@ -2,5 +2,6 @@
   "name": "NFT Pool",
   "description": "Support a group of Cardano developers by delegating to NFT Pool",
   "ticker": "NFT",
-  "homepage": "https://rektangularstudios.xyz"
+  "homepage": "https://rektangularstudios.xyz",
+  "extended": "https://raw.githubusercontent.com/ThrDragon/pub/main/ext.json"
 }
